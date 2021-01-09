@@ -1,13 +1,16 @@
 # Recharge-app-Public
 
+This is an app for online recharging indian phone numbers with top up or validitiy recharge for all telecom networks. 
+
 This project was created with React Native CLI and Node Js
 
+NOTES : 
 Configure your firebase from Firebase google account
 and replace the "XXXX" numbers in config.js  file under config folder
 
-Right now I'm sending the Recharge request to a webhook link. it will just show that the webhook link received your request if you successfully run the code. 
+Right now I'm sending the Recharge request to a webhook link. it will just show that the webhook link received your request if you successfully run the code. You an see the API post request and data received at this link " https://webhook.site/#!/a2db8380-dd73-49fe-bd16-b224f9ef92bd " 
 
-To do an actual recharge you need to find a recharge API provider and configure the recharge.js file according to that and replace the "XXXXX" with your api credentials.
+To do an actual recharge you need to find a recharge API provider and configure the recharge.js file according to that and replace the "XXXXX" with your api credentials. If you need my help you can reach out to me. 
 
 INITIAL SETUP :
 
